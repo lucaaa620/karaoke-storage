@@ -1,3 +1,20 @@
 {
-  "songs": []
+  "songs": [
+    {
+      "id": "song1",
+      "title": "Song 1",
+      "artist": "Artist 1",
+      "audioUrl": ".../audio/song1.mp3",
+      "thumbUrl": ".../thumbs/song1.jpg",
+      "lyricsLrc": ".../lyrics/song1.lrc"
+    },
+    {
+      "id": "song2",
+      "title": "Song 2",
+      "artist": "Artist 2",
+      "audioUrl": ".../audio/song2.mp3",
+      "thumbUrl": ".../thumbs/song2.jpg",
+      "lyricsLrc": ".../lyrics/song2.lrc"
+    }
+  ]
 }
